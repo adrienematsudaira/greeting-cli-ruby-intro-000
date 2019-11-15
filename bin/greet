@@ -8,4 +8,3 @@ Name = gets.strip
 
 greeting(name)
 greeting "Bobby"
-greeting "Don"
